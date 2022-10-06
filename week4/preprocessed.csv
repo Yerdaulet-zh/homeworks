@@ -1,0 +1,6 @@
+Temperature,temperatureLow,temperatureHigh,temperatureMin,temperatureMax
+>40,231,311,219,315
+<40,89,42,91,40
+<30,32,8,38,6
+<20,10,4,13,4
+<10,3,0,4,0
